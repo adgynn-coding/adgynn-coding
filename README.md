@@ -30,7 +30,12 @@ Calcul des moyennes pondérées selon la série et le trimestre, avec une offre 
   <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,supabase,postgres,vercel,git,github,python,linux,bash&theme=dark" alt="Next.js, React, JavaScript, HTML, CSS, Tailwind, Supabase, PostgreSQL, Vercel, Git, GitHub, Python, Linux et Bash" />
 </p>
 
-**En apprentissage :** Python, Linux et sécurité applicative.
+<p>
+  <strong>En apprentissage :</strong>
+  <img src="https://api.iconify.design/simple-icons/python.svg?color=%2358a6ff" width="22" height="22" alt="Python" title="Python" />
+  <img src="https://api.iconify.design/simple-icons/linux.svg?color=%2358a6ff" width="22" height="22" alt="Linux" title="Linux" />
+  <img src="https://api.iconify.design/simple-icons/virtualbox.svg?color=%2358a6ff" width="22" height="22" alt="VirtualBox" title="VirtualBox — laboratoire de sécurité applicative" />
+</p>
 
 <h3><img src="https://api.iconify.design/lucide/chart-no-axes-column-increasing.svg?color=%2358a6ff" width="18" height="18" alt="" /> Activité GitHub</h3>
 
@@ -44,5 +49,5 @@ Calcul des moyennes pondérées selon la série et le trimestre, avec une offre 
 </div>
 
 <div align="center">
-  <a href="https://github.com/adgynn-coding">Voir mes projets sur GitHub →</a>
+  <a href="https://adgynn-portfolio.vercel.app/">Voir mon Portfolio→</a>
 </div>
