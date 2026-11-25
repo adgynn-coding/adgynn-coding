@@ -27,7 +27,7 @@ Calcul des moyennes pondérées selon la série et le trimestre, avec une offre 
 <h3><img src="https://api.iconify.design/lucide/cpu.svg?color=%2358a6ff" width="18" height="18" alt="" /> Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,supabase,postgres,vercel,git,github,python,linux,bash&theme=dark" alt="Next.js, React, JavaScript, HTML, CSS, Tailwind, Supabase, PostgreSQL, Vercel, Git, GitHub, Python, Linux et Bash" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind,supabase,postgres,vercel,git,github" alt="Next.js, React, JavaScript, HTML, CSS, Tailwind, Supabase, PostgreSQL, Vercel, Git, GitHub, Python, Linux et Bash" />
 </p>
 
 <p>
